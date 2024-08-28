@@ -1,3 +1,9 @@
+# builder.io custom instruction
+create a base angular app that can render the generated components. create separate component for each section and use parent, child relation. create html,css and ts files for every component. add styling separately for each component
+
+# command to sync generated code
+npx builder.io@latest add 31046179
+
 # WUDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
